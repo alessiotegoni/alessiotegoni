@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently learning next
+🧑‍🎓Currently learning next
+
+🧑‍💻Learning web development since 2021
 
 
 # 💻 Tech Stack:
