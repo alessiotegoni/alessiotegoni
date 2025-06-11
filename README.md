@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/alessio-tegoni-9a8a22274)
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/alessio-tegoni-a219a6270)
 [![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/alessiotegoni)
 
 </div>
